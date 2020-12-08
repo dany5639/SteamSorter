@@ -1,0 +1,10 @@
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\bin\Debug\SteamSorter.exe.config
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\bin\Debug\SteamSorter.exe
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\bin\Debug\SteamSorter.pdb
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\obj\Debug\SteamSorter.csprojAssemblyReference.cache
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\obj\Debug\SteamSorter.Form1.resources
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\obj\Debug\SteamSorter.Properties.Resources.resources
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\obj\Debug\SteamSorter.csproj.GenerateResource.cache
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\obj\Debug\SteamSorter.csproj.CoreCompileInputs.cache
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\obj\Debug\SteamSorter.exe
+C:\Users\dan\source\repos\SteamSorter\SteamSorter\obj\Debug\SteamSorter.pdb
