@@ -71,7 +71,8 @@ namespace SteamSorter
                     continue;
 
                 // get appid from filename
-                var appid_s = file.Split("_".ToCharArray());
+                var filename = Path.GetFileName(file);
+                var appid_s = filename.Split("_".ToCharArray());
                 var appid_s2 = appid_s[1].Split(".".ToCharArray())[0];
                 int.TryParse(appid_s2, System.Globalization.NumberStyles.Integer, null, out int appid);
 
